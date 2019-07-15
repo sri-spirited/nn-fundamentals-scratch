@@ -1,13 +1,7 @@
-[**Please read the blog post that goes with this code!**](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+A compilation of from-scratch implementations of neural networks.
 
-### iPython notebook setup
+[WILDML blog on nn from scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
-```bash
-# Create and activate new virtual environment (optional)
-virtualenv venv
-source venv/bin/activate
-# Install requirements
-pip install -r requirements.txt
-# Start the notebook server
-jupyter notebook
-```
+[Andrew Trask's popular blog post](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+
+
